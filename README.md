@@ -1,2 +1,2 @@
 # EasyMenu
- Meal Weekly Planning Apps
+ Weekly Meal Planning Apps
